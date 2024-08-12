@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Looking for research intern now"
+date:   2024-08-06 12:00:00 +0000
+categories: jekyll update
+---
+
+Hi, I'm looking for research intern in LLMs related field. I'm currently a master student in GWU. Available and also very welcome to meet me in person (for professor in east coast of U.S.).
+
+Contact me with my email : longjie.yang@gwmail.gwu.edu
+

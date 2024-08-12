@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "First Blog Post: Website init today!"
+date:   2024-08-05 12:00:00 +0000
+categories: jekyll update
+---
+
+This is my first blog post in this website.

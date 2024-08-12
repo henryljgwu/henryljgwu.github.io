@@ -1,0 +1,54 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.rainbow-text {
+    font-weight: bold;
+    background: linear-gradient(90deg, red, orange, rgb(164, 164, 0), green, blue, indigo, violet, red);
+    background-size: 200%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: rainbow 10s linear infinite;
+}
+
+@keyframes rainbow {
+    0% {
+        background-position: 0%;
+    }
+    100% {
+        background-position: 200%;
+    }
+}
+
+.gold-text {
+    font-weight: bold;
+    color: grey; /* 文字颜色 */
+    text-shadow: 0 0 10px #FFD700, 
+                 0 0 15px #fddd2c,
+                 0 0 20px #ffe75d,
+                 0 0 25px #ffea70;
+    animation: breathing 4s linear infinite; /* 呼吸动画 */
+}
+
+@keyframes breathing {
+    0% {
+        text-shadow: 0 0 1px #FFD700, 
+                     0 0 2px #fddd2c,
+                     0 0 5px #ffe75d,
+                     0 0 10px #ffea70;
+    }
+    50% {
+        text-shadow: 0 0 5px #d4b500, 
+                     0 0 10px #ebce2a,
+                     0 0 20px #f0d958,
+                     0 0 30px #ffea70;
+    }
+    100% {
+        text-shadow: 0 0 1px #FFD700, 
+                     0 0 2px #fddd2c,
+                     0 0 5px #ffe75d,
+                     0 0 10px #ffea70;
+    }
+}
