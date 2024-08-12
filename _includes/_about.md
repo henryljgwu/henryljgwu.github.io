@@ -55,7 +55,7 @@
 # Research Interest
 My research interests encompass **large language models (LLMs)**, **fine-tuning techniques**, **multi-model approaches**, and the **practical applications** of these technologies across various fields.
 
-# Ph.D. Opportunity
+# Seeking for Ph.D. Opportunity
 I am actively seeking a Ph.D. opportunity starting in Fall 2025. My focus is on joining a research team dedicated to advanced machine learning techniques, with a particular interest in exploring the intersection of LLMs and their applications in the real word, especially like medical, financial (economic), and bio fields.
 
 # Why Choose Me for Your Ph.D. Program？
@@ -68,6 +68,11 @@ I am actively seeking a Ph.D. opportunity starting in Fall 2025. My focus is on 
 # Interested in a Coffee Chat?
 If you're available, I'd love to meet for a coffee chat! I'm flexible and willing to travel to another city to discuss potential research collaborations and explore how we might work together.
 
+ <br>
+
+---
+
+ <br>
 # News and Posts
 
 
@@ -81,7 +86,18 @@ If you're available, I'd love to meet for a coffee chat! I'm flexible and willin
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/npm/sakana-widget@2.7.0/lib/sakana.min.css"
 />
-<div id="sakana-widget" style="position: fixed; bottom: 10px; right: 10px; z-index: 1000;"></div>
+<div id="sakana-widget" style="position: fixed; bottom: 10px; right: 10px; z-index: 1000; display: none;"></div>
+<div id="gift-box" style="position: fixed; bottom: 10px; right: 10px; z-index: 1000; font-size: 50px; cursor: pointer;">
+    🎁
+</div>
+<script>
+    document.getElementById('gift-box').addEventListener('click', function() {
+        // 隐藏礼物盒
+        document.getElementById('gift-box').style.display = 'none';
+        // 显示 Sakana Widget
+        document.getElementById('sakana-widget').style.display = 'block';
+    });
+</script>
 <script>
   function initSakanaWidget() {
     const github = SakanaWidget.getCharacter('chisato');
