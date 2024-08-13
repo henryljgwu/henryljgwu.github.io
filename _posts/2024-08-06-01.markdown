@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Looking for research intern now"
+title:  "Looking for research intern & Ph.D program now"
 date:   2024-08-06 12:00:00 +0000
 categories: jekyll update
 ---
