@@ -13,4 +13,6 @@ Work as a server, you can post and get response through api.
 
 Original repo: [llama.cpp](https://github.com/ggerganov/llama.cpp)
 
-Screenshots for this project remain to be uploaded ...
+Demonstration could be found on [Youtube](https://youtu.be/_qaRTP6Ql9E)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_qaRTP6Ql9E?si=pWzwZmqUuu6ricTX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
