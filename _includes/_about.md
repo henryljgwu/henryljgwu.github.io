@@ -43,30 +43,29 @@
             <img src="/assets/me.jpg" alt="My Photo">
             <div>
                 <!--<h2> Longjie Yang </h2>-->
-                <p>Hi, nice to meet you! It's Longjie Yang here!</p>
-                <p>I am a master's student in computer science at GWU with a deep interest in LLMs and their practical applications.</p>
-                <p>I am interested in LLMs field, and currently seeking for a Ph.D. in 2025 fall.</p>
+                <p>Hello! I'm Longjie Yang—it's a pleasure to connect with you.</p>
+                <p>I'm currently pursuing a master's degree in computer science at GWU, where I've developed a strong interest in Large Language Models (LLMs) and their practical applications. I'm also exploring Ph.D. opportunities for Fall 2025.</p>
             </div>
         </div>
     </div>
 </body>
 </html>
 
-# Research Interest
-My research interests encompass **large language models (LLMs)**, **fine-tuning techniques**, **multi-model approaches**, and the **practical applications** of these technologies across various fields.
+# Research Interests
+My research interests include **large language models (LLMs)**, **fine-tuning techniques**, **multi-model approaches**, and exploring the **practical applications** of these technologies across various fields.
 
-# Seeking for Ph.D. Opportunity
-I am actively seeking a Ph.D. opportunity starting in Fall 2025. My focus is on joining a research team dedicated to advanced machine learning techniques, with a particular interest in exploring the intersection of LLMs and their applications in the real word, especially like medical, financial (economic), and bio fields.
+# Ph.D. Aspirations
+I'm interested in finding a Ph.D. opportunity starting in Fall 2025, where I can contribute to a research team focused on advanced machine learning techniques. I'm particularly eager to explore how LLMs can be applied in areas like healthcare, finance, and biotechnology.
 
-# Why Choose Me for Your Ph.D. Program？
-1. **Passion for LLMs**: I have a deep and sustained passion for large language models, driving my commitment to cutting-edge research.
-2. **Loyalty and Dedication**: My focus is on finding the right research match rather than ranking, ensuring my loyalty and dedication to the team I join.
-3. **Pragmatic Approach**: My extensive software development experience equips me to translate innovative ideas into practical solutions.
-4. **Team Fit**: I prioritize the alignment of research interests with my potential advisors, valuing synergy over prestige.
-5. **Open to Discussion**: I am more than happy to discuss my research interests further in a casual coffee chat.
+# Why I Might Be a Good Fit for Your Ph.D. Program
+1. **Genuine Enthusiasm for LLMs**: I have a deep interest in large language models, which drives my commitment to engaging in innovative research.
+2. **Focused on Finding the Right Fit**: I’m looking for a research environment where I can make meaningful contributions and grow, rather than simply focusing on rankings.
+3. **Practical Experience**: My background in software development allows me to translate theoretical ideas into practical applications.
+4. **Alignment of Interests**: I believe in the importance of aligning my research interests with those of my potential advisors to foster a productive collaboration.
+5. **Open to Discussion**: I’d be more than happy to discuss my research interests further and would love to connect over coffee.
 
-# Interested in a Coffee Chat?
-If you're available, I'd love to meet for a coffee chat! I'm flexible and willing to travel to another city to discuss potential research collaborations and explore how we might work together.
+# Let's Connect Over Coffee
+If you have some time, I'd love to meet for a coffee chat to explore potential research collaborations and discuss how we might work together. I'm flexible with scheduling and happy to travel to meet you.
 
  <br>
 
