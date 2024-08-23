@@ -19,7 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Longjie Yang
-email: longjie.yang@gwmail.gwu.edu
+email: longjie.yang@gwmail.gwu.edu 
+phdemail: longjie.yang.llm@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
  Hi, nice to meet you! It's Longjie Yang here! 
  I am a master's student in computer science at GWU with a deep interest in LLMs and their practical applications. 

@@ -65,7 +65,7 @@ I'm interested in finding a Ph.D. opportunity starting in Fall 2025, where I can
 5. **Open to Discussion**: I’d be more than happy to discuss my research interests further and would love to connect over coffee.
 
 # Let's Connect Over Coffee
-If you have some time, I'd love to meet for a coffee chat to explore potential research collaborations and discuss how we might work together. I'm flexible with scheduling and happy to travel to meet you.
+If more information is needed, I'd love to meet for a coffee chat to explore potential research collaborations and discuss how we might work together. I'm flexible with scheduling and happy to travel to meet you.
 
  <br>
 

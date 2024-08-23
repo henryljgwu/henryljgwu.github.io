@@ -16,7 +16,12 @@
             {%- endif -%}
             </li>
             {%- if site.email -%}
+            [Contact email]
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {%- endif -%}
+            {%- if site.phdemail -%}
+            [Ph.D. apply email]
+            <li><a class="u-email" href="mailto:{{ site.phdemail }}">{{ site.phdemail }}</a></li>
             {%- endif -%}
         </ul>
       </div>
