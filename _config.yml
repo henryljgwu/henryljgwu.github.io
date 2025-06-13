@@ -24,7 +24,7 @@ phdemail: longjie.yang.llm@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
  Hi, nice to meet you! It's Longjie Yang here! 
  I am a master's student in computer science at GWU with a deep interest in LLMs and their practical applications. 
- I am interested in LLMs field, and currently seeking for a Ph.D. in 2025 fall. 
+ I am interested in LLMs field. 
  My research interests encompass large language models (LLMs), fine-tuning techniques, multi-model approaches, and the practical applications of these technologies across various fields.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://henryljgwu.github.io" # the base hostname & protocol for your site, e.g. http://example.com

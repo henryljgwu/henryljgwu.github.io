@@ -44,7 +44,7 @@
             <div>
                 <!--<h2> Longjie Yang </h2>-->
                 <p>Hello! I'm Longjie Yang—it's a pleasure to connect with you.</p>
-                <p>I'm currently pursuing a master's degree in computer science at GWU, where I've developed a strong interest in Large Language Models (LLMs) and their practical applications. I'm also exploring Ph.D. opportunities for Fall 2025.</p>
+                <p>I'm currently pursuing a master's degree in computer science at GWU, where I've developed a strong interest in Large Language Models (LLMs) and their practical applications.</p>
             </div>
         </div>
     </div>
@@ -55,7 +55,7 @@
 My research interests include **large language models (LLMs)**, **fine-tuning techniques**, **multi-model approaches**, and exploring the **practical applications** of these technologies across various fields.
 
 # Ph.D. Aspirations
-I'm interested in finding a Ph.D. opportunity starting in Fall 2025, where I can contribute to a research team focused on advanced machine learning techniques. I'm particularly eager to explore how LLMs can be applied in areas like healthcare, finance, and biotechnology.
+I'm interested in finding a Ph.D. opportunity, where I can contribute to a research team focused on advanced machine learning techniques. I'm particularly eager to explore how LLMs can be applied in areas like healthcare, finance, and biotechnology.
 
 # Why I Might Be a Good Fit for Your Ph.D. Program
 1. **Genuine Enthusiasm for LLMs**: I have a deep interest in large language models, which drives my commitment to engaging in innovative research.
